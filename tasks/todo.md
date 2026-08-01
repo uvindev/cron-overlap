@@ -1,0 +1,24 @@
+# Release checklist
+
+- [x] Console badge fires once, in production, on every route
+- [x] Console badge survives React StrictMode without doubling
+- [x] No `console.clear()` anywhere in the codebase
+- [x] Footer credit visible, linked, `rel="noopener noreferrer"`
+- [x] Footer credit clears 4.5:1 contrast
+- [x] Footer credit inherits client palette (not applicable; owned product)
+- [x] `author` / `creator` metadata in head
+- [x] JSON-LD `creator` block present
+- [x] File headers on entry points and original algorithms
+- [x] `package.json` author + homepage set
+- [x] `X-Built-By` response header returned by the local production server
+- [x] `humans.txt` served and linked
+- [x] Git identity `Uvin Vindula <uvin95dev@gmail.com>` configured repository-locally
+- [x] README footer credit
+- [x] `verify-signature.sh` exits 0
+- [ ] Curl checks against a live domain (not applicable until deployment)
+- [x] Waiver documented if Layer 2 was dropped (not applicable; footer is present)
+- [x] Product specification and evidence boundary documented
+- [x] Manifest parser and UTC schedule simulator implemented
+- [x] Finding report and audit exports implemented
+- [x] Static, automated, security, and browser verification passed
+- [ ] Private GitHub repository pushed
