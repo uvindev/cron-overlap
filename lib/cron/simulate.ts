@@ -307,7 +307,7 @@ export function simulateManifest(rawInput: PlannerInput): SimulationResult {
         job: jobs[jobIndex].name,
         message: `The schedule averages ${averageRunsPerDay.toFixed(1)} starts per day.`,
         repair:
-          "Confirm the [TARGET] five-minute frequency boundary and compute budget.",
+          "Confirm the five-minute frequency boundary and compute budget.",
       });
     }
   });
