@@ -47,7 +47,7 @@ The first command checks formatting, ESLint, TypeScript, unit tests, the product
 
 ## Who pays
 
-The free product checks one manifest. Team is a [TARGET] $18 per workspace/month hypothesis for platform teams and agencies that need cross-repository schedule inventory, version history, approvals, CI enforcement, platform adapters, and monitoring handoff. Demand, price acceptance, customers, and revenue are unverified.
+The free product checks one manifest. Demand, price acceptance, customers, and revenue are unverified.
 
 ## Limits
 
