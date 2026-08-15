@@ -4,6 +4,8 @@ CronOverlap simulates a complete Vercel cron manifest before production deployme
 
 The simulation runs in the browser. It does not upload, persist, or request any scheduled endpoint.
 
+![CronOverlap on load: the timetable that shows which scheduled jobs start in the same minute](docs/screenshot.png)
+
 ## Local setup
 
 ```bash
